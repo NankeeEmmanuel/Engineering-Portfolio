@@ -1,0 +1,52 @@
+nav {
+    background-color: darkblue;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: yellow;
+}
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin: 40px;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 48px;
+}
+
+h2 {
+    color: darkgreen;
+    font-size: 32px;
+}
+
+p {
+    color: darkred;
+    font-size: 20px;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    font-size: 18px;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+img {
+    width: 100px;
+    height: 400;
+    border-radius: 5px;
+    margin-top: 5px;
+}
